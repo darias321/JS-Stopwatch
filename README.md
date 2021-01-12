@@ -1,4 +1,4 @@
 # JS-Stopwatch
 
-Stopwatch made with vanilla javascript.
+### Stopwatch made with vanilla javascript.
 ![JavaScript Stopwacth Screenshot](images/stopwatch-pic.png)
